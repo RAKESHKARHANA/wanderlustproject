@@ -1,0 +1,107 @@
+Error: Incorrect password
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: seacrhService.getAll is not a function
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\src\routes\serachRoute.js:6:19
+    at Layer.handle [as handle_request] (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+ReferenceError: searchedDB is not defined
+    at Object.hotDealService.getAll (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\hotDeals.js:10:5)
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\src\routes\hotRouter.js:16:20
+    at Layer.handle [as handle_request] (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+TypeError: object is not iterable (cannot read property Symbol(Symbol.iterator))
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\src\model\destinationsDeals.js:22:50
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: userid is not defined
+    at Object.bookingsService.getById (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\src\service\bookingsDeal.js:6:31)
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\src\routes\bookingsRouter.js:7:21
+    at Layer.handle [as handle_request] (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+ReferenceError: req is not defined
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\src\routes\bookingsRouter.js:23:17
+    at Layer.handle [as handle_request] (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\MSI-GF\Desktop\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
